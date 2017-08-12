@@ -41,12 +41,13 @@ p {font-family:arcena,'Times New Roman',STXingkai,'Microsoft YaHei';color:#6F00D
 
 <h2>做过的事：</h2>
 <ul>
-	<li><p><a href="https://emil-501.github.io/dynamic/20170101/20170101.html" target="_blank">(2017/1~2017/3)“2017年江苏省高等职业院校技能大赛”出题、赛题发布、设备部署</a></p></li>
-	<li><p><a href="https://emil-501.github.io/dynamic/20170519/20170519.html" target="_blank">(2017/5)锐捷SDN培训福州专场</a></p></li>
+	<li><p><a href="https://emil-501.github.io/dynamic/20170101/20170101.html" target="_blank">（2017/1~2017/3）“2017年江苏省高等职业院校技能大赛”出题、赛题发布、设备部署</a></p></li>
+	<li><p><a href="https://emil-501.github.io/dynamic/20170519/20170519.html" target="_blank">（2017/5）锐捷SDN培训福州专场</a></p></li>
 	<li><p><a href="https://github.com/KeepTheBeats/alevin-svn2" target="_blank">（2017/5）改进：在用alevin运行DPVNE算法时，用xml导入拓扑</a></p><p><a href="https://github.com/KeepTheBeats/DPVNE_alevin_experi" target="_blank">（2017/5）用alevin对DPVNE算法进行实验的数据及实验用到的各种小程序</a></p></li>
 	<li><p><a href="https://github.com/KeepTheBeats/BGP_learning_experiment" target="_blank">（2017/5）BGP学习与实验的笔记和做实验时华为模拟软件eNSP的拓扑</a></p></li>
 	<li><p><a href="https://github.com/KeepTheBeats/ovs_virtualpc_ping_realpc" target="_blank">（2017/5）OVS实现虚拟机与外部主机通信</a></p></li>
 	<li><p><a href="https://github.com/KeepTheBeats/ovs-RG-ONC-S5750-Layer-3-forwarding-" target="_blank">（2017/7）用OVS（模拟网关实现不同子网的互通）实现三层转发（同时用锐捷的S5750C交换机和RG-ONC控制器进行同样的实验）</a></p></li>
+	<li><p><a href="https://emil-501.github.io/dynamic/20170724/20170724.html" target="_blank">（2017/7）锐捷SDN培训福州专场第二期</a></p></li>
 </ul>
 </body>
 
